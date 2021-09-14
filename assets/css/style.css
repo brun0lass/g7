@@ -1,0 +1,22 @@
+.card {
+    width: 18rem;
+    color: #fff;
+}
+
+.card-title .d-flex a {
+    margin-left: 10px;
+}
+
+html, body {
+    height: 100%;
+}
+
+footer {
+    color: #fff !important;
+}
+
+@media only screen and (max-width: 767px) {
+    .card {
+        width: 80%;
+    }
+}
